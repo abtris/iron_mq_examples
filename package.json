@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "iron_mq": "~0.2.0"
+  }
+}
